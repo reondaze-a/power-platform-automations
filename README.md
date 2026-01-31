@@ -1,2 +1,2 @@
 # power-platform-automations
-Power Platfor AUtomations
+Power Platform Automations
